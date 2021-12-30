@@ -1,6 +1,4 @@
 import React, { Component } from 'react'
-// import TodoList from './Todolist'
-// import TodoList from 'Todolist'
 
 export default class TodoItem extends Component{
     
